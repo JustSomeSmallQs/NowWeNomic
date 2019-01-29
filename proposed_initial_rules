@@ -181,25 +181,6 @@ Rule 17 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 18 (Mutable)
-
-      The winner is the first Voter to achieve 100 (positive) points.
-      If more than one Voter achieves this condition simultaneously, all
-      such Voters win.
-      When a game ends in this manner:
-        -If there is only one winner, that Voter becomes the Speaker, and
-         the old Speaker becomes a Voter
-        -If there is more than one winner, the Speaker randomly selects
-         one of the winners, who becomes the new Speaker, and the old
-         Speaker becomes a Voter.
-        -All players' scores are reset to 0.
-        -A new game is begun.  All rules and proposed rule changes retain
-         the status they had at the end of the old game.
-
-- Passed as part of Official Starting Rules, 23 September 2018
-
-----------------------------------------------------------------------
-
 Rule 19 (Mutable)
 
       A proposal shall be made by submitting it to the Speaker.  Only
@@ -547,7 +528,7 @@ Rule 60: The Anti-Discrimination Act:
           which set the required number of votes for proposals which propose to transmute a rule.
 
 Enacted as rule 24 of the Official Starting Rules, 23 September 2018 
-Amended by Proposal 60, Wednesday, 14 November 2018
+Amended by Proposal 60, 14 November 2018
 
 ----------------------------------------------------------------------
 
@@ -560,7 +541,7 @@ While there is an extant Decree of Expulsion or the nomic is in a state of Crisi
 the period of one week shall be considered to be suspended. 
 
 Enacted as a part of the the Official Starting Rules, 23 September 2018
-ammended by proposal 69 on Monday, December 10th
+ammended by proposal 69, 10 December 2018
 
 ----------------------------------------------------------------------
 
@@ -596,8 +577,8 @@ While the speaker may be required to  fulfil the duties of an office, they are n
 
 If the speaker changes, all players in office remain in office.
 
-Enacted by majority vote, October 13, 2018
-Amended by proposal 71, December 20, 2018
+Enacted by majority vote, 13 October 2018
+Amended by proposal 71, 20 December 2018
 
 ----------------------------------------------------------------------
 
@@ -606,7 +587,7 @@ Rule 74:
 In the interest of preserving a fair and free democracy, no Rule may be enforced to restrict any Voters from full participation 
 in the public channels of this Discord, nor to restrict any interested persons from becoming Voters.
 
-Enacted by majority vote, December 29th, 2018
+Enacted by majority vote, 29 December 2018
 
 ----------------------------------------------------------------------
 
@@ -619,7 +600,7 @@ where it specifies the proposed state of the game. In those points where it does
 the state of the game remains the same. If a game state ratification proposal fails, it does not change the state of the game. 
 This rule takes precedence over every other mutable rule.
 
-Enacted by majority vote, January 12, 2018
+Enacted by majority vote, 12 January 2018
 
 ----------------------------------------------------------------------
 
@@ -635,8 +616,8 @@ Rule 77:
         -A new game is begun.  All rules retain the status they had at the end of the old game, unless otherwise specified. 
         The votes and voting periods for all unresolved Proposals are reset, so that all votes on each proposal may be collected by one Speaker
 
-Enacted as part of the Official Starting Rules, 23 September, 2018
-Ammended January 14, 2019
+Enacted as part of the Official Starting Rules, 23 September 2018
+Ammended 14 January 2019
 
 ----------------------------------------------------------------------
 
@@ -647,4 +628,4 @@ prior to any votes being cast on that proposal. The edit or withdrawal must be e
 In case of an edit, the Speaker must publish the proposal again, with the same proposal number, 
 and the prescribed voting period shall be deemed to have restarted upon this publication.
 
-Enacted by majority vote, January 17th, 2019
+Enacted by majority vote, 17 January 2019
